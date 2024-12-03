@@ -44,8 +44,8 @@ Antes de rodar o projeto, certifique-se de ter as seguintes tecnologias instalad
 ### 1. **Clonar o Repositório**
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/SergioRicJr/chatbot_final
+cd chatbot_final
 ```
 
 ---
@@ -105,10 +105,8 @@ nltk.download('stopwords')
 Execute o chatbot com o seguinte comando:
 
 ```bash
-python main.py
+python chatbot.py
 ```
-
-> **Nota:** Substitua `main.py` pelo nome correto do arquivo Python que contém o chatbot.
 
 ---
 
